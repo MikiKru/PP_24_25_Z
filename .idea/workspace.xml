@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="173103b3-c130-4c02-852d-221ec78f544c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect3/ConditionalInstructions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect3/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect3/MultiArrayLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +134,8 @@
       <workItem from="1729922372712" duration="5407000" />
       <workItem from="1729929041868" duration="113000" />
       <workItem from="1729929167729" duration="1296000" />
-      <workItem from="1732346338728" duration="3264000" />
+      <workItem from="1732346338728" duration="4146000" />
+      <workItem from="1732350545855" duration="213000" />
     </task>
     <servers />
   </component>
