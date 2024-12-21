@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="173103b3-c130-4c02-852d-221ec78f544c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect4/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect4/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect4/Multiarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect4/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect4/SetsOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect5/MathStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lect5/oop/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,41 +52,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Deques.executor": "Run",
-    "Application.Lists.executor": "Run",
-    "Application.Maps.executor": "Run",
-    "Application.Multiarrays.executor": "Run",
-    "Application.Sets.executor": "Run",
-    "Application.SetsOperations.executor": "Run",
-    "Application.User.executor": "Run",
-    "Application.org.example.lect4.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/micha/OneDrive/Pulpit/PBS/PP/Lecture/pp_19_10",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Deques.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetsOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.User.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.lect4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/micha/OneDrive/Pulpit/PBS/PP/Lecture/pp_19_10&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Deques">
-    <configuration name="Deques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lect4.Deques" />
+}</component>
+  <component name="RunManager" selected="Application.Price">
+    <configuration name="MathStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lect5.MathStatic" />
       <module name="pp_19_10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lect4.*" />
+          <option name="PATTERN" value="org.example.lect5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lect4.Maps" />
+    <configuration name="MathStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lect5.MathStaticTest" />
       <module name="pp_19_10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lect4.*" />
+          <option name="PATTERN" value="org.example.lect5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lect4.Multiarrays" />
+    <configuration name="Price" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lect5.Price" />
       <module name="pp_19_10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lect4.*" />
+          <option name="PATTERN" value="org.example.lect5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetsOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lect4.SetsOperations" />
+    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lect.UserTest" />
       <module name="pp_19_10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lect4.*" />
+          <option name="PATTERN" value="org.example.lect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lect4.example.User" />
+    <configuration name="org.example.lect5.oop.UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lect5.oop.UserTest" />
       <module name="pp_19_10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lect4.example.*" />
+          <option name="PATTERN" value="org.example.lect5.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Deques" />
-        <item itemvalue="Application.Maps" />
-        <item itemvalue="Application.SetsOperations" />
-        <item itemvalue="Application.Multiarrays" />
-        <item itemvalue="Application.User" />
+        <item itemvalue="Application.Price" />
+        <item itemvalue="Application.org.example.lect5.oop.UserTest" />
+        <item itemvalue="Application.MathStaticTest" />
+        <item itemvalue="Application.MathStatic" />
+        <item itemvalue="Application.UserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +183,7 @@
       <workItem from="1732873565139" duration="172000" />
       <workItem from="1733555562383" duration="1425000" />
       <workItem from="1733557369249" duration="1735000" />
+      <workItem from="1734765143100" duration="3055000" />
     </task>
     <servers />
   </component>
